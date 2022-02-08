@@ -12,11 +12,11 @@ body {
 	
 }
 body.V{
-	background-image: url("BGV.jpg");
+	background-image: url("civ/BGV.jpg");
 }
 
 body.VI{
-	background-image: url("BGVI.jpg");
+	background-image: url("civ/BGVI.jpg");
 }
 
 div.ws{
